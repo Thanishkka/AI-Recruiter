@@ -1,0 +1,8 @@
+AI RECRUITER NLP-DEPENDENCIES
+
+No External Packages Required
+
+The project uses Python’s built-in modules:
+
+re – Regular expressions and text processing
+json – JSON output formatting
